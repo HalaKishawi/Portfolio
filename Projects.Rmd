@@ -52,11 +52,5 @@ The equity multiplier decreased because equity increased more than the assets di
 In conclusion, this analysis indicates that Telus experienced improvement in profitability from 2020 to 2021, which is a cause of stronger operating activity performance. Profit margin increased, indicating better cost control, and improved generating profit from sales. The asset turnover ratio decreased which suggests the company became a little less efficient in using its assets to generate revenue. Despite the small decrease in asset efficiency, the companies return on equity still improved from 2020 to 2021. This is because of an increase in profit margin.
 
 
-**Key Skills Demonstrated:**
-*   Data Import and Cleaning in R
-*   Visualization with `ggplot2` (e.g., bar charts, scatter plots)
-*   Analytical Thinking and Problem-Solving
-*   Professional Documentation using R Markdown
-
 ---
-[← Back to Home](index.html)
+[← Back to Home]

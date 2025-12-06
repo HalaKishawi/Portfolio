@@ -4,22 +4,14 @@ title: "My Data Portfolio"
 
 ## Welcome to My Portfolio
 
-I'm Hala Kishawi, a student that is passionate about turning raw data into clear insights and actionable recommendations.
+I'm Hala Kishawi, a student at Vancouver Island University that is interested about turning data into clear understandable information.
 
-### What I Do
-
-I use data analysis to solve problems. My skills include:
+ My skills:
 
 
-*   **Statistical Analysis:** Exploring data to find patterns and relationships.
-*   **Data Visualization:** Creating clear, impactful charts with `ggplot2`.
-*   **Reproducible Reporting:** Building professional documents with R Markdown.
+*   **Statistical Analysis:** Understanding data tofind relationships to real life concepts.
 
-### Navigate My Work
+*   **Reporting:** Turning my research and analysis into comprehensible reports.
 
-Use the menu above to:
-*   Learn more **[about me and my skills](about.html)**
-*   View my **[data analysis projects](projects.html)**
 
 ---
-*This professional portfolio was built with R Markdown and hosted for free on GitHub Pages.*

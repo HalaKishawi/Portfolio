@@ -3,7 +3,7 @@
     "path": "C:/Users/halak/OneDrive/Desktop/Portfolio/Projects.Rmd",
     "project_path": "Projects.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2552688618",
     "contents": "",
     "dirty": false,
     "created": 1764998028518.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,85",
-        "scrollLine": "0"
+        "cursorPosition": "55,16",
+        "scrollLine": "47"
     },
     "folds": "",
-    "lastKnownWriteTime": 1765000333,
+    "lastKnownWriteTime": 1765007470,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1765000333259,
+    "last_content_update": 1765007470601,
     "read_only": false,
     "read_only_alternatives": []
 }
