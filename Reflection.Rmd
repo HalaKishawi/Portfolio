@@ -3,6 +3,7 @@ title: "Website Deployment Reflection"
 author: "Hala Kishawi, 667176531"
 date: "`r Sys.Date()`"
 output:
+  word_document: default
   html_document:
     theme: cosmo
 ---
@@ -14,7 +15,7 @@ output:
 
 ## Reflection
 
-This project taught me a lot of things. firstly,it taught me how to build a  website using R Markdown, a tool I used to only used for tests and single reports. Learning to connect pages with `_site.yml`  file was a  new skill that took practice. The most challenging part was the deployment process using GitHub Actions. I overcame this doing it over until I stopped getting an error. Successfully seeing my portfolio live online heped me see that I can combine both sites to create my websites.
+This project taught me a lot of things. firstly,it taught me how to build a  website using R Markdown, a tool I used to only used for tests and single reports. Learning to connect pages with `_site.yml`  file was a  new skill that took practice. The most challenging part was the deployment process using GitHub Actions. I overcame this doing it over until I stopped getting an error. Successfully seeing my portfolio live online helped me see that I can combine both sites to create my websites.
 
 ## Website Overview
 
