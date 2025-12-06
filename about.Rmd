@@ -1,0 +1,33 @@
+---
+title: "About Me"
+---
+
+## My Background
+
+I am a student in the Business program. I'm taking an E-management course, where I am developing core competencies in decision making that is based off date and business analysis.
+
+## Technical Skills & Tools
+
+**Programming & Analysis:**
+*   R (Primary language for analysis)
+*   RStudio & R Markdown
+*   Data Cleaning & Transformation
+*   Exploratory Data Analysis (EDA)
+
+**Visualization & Communication:**
+*   `ggplot2` for professional charting
+*   Creating dashboards and executive summaries
+*   Translating technical findings for business audiences
+
+## Education
+
+**Vancouver Island University** - Business Program
+
+**Contact & Profiles**
+
+*   **Email:** [halakishawi006@gmail.com]
+*   **LinkedIn:** [https://ca.linkedin.com/in/hala-kishawi-67aaa335a]
+*   **GitHub:** 
+
+---
+[← Back to Home](index.html)

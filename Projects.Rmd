@@ -1,0 +1,62 @@
+---
+title: "Project Showcase"
+---
+
+## My Data Analysis Projects
+
+Below is an example of my  work, demonstrating the full process from data to insight.
+
+### Project: Financial Statement Analysis
+
+**Objective:** The goal of this project was to analyze Telus's statements with multiple ratios and to make conclusions about it profitability .
+
+Analysis:
+
+1. Current Ratio:
+The current ratio decreased from which indicates that the company became less liquid in 2021. This is because the current liabilities increased more then the current assets increased. The current assets did grow, but the current liabilities increased more which can be due to the accounts payable or short term financing. 
+
+2. Quick Ratio
+The quick ratio also decreased. Inventory, which is removed, increased only slightly so the biggest factor in the decrease is still the big increase in current liabilities. This showed that Telus is dependant on selling inventory to cover the liabilities, more than it was in the prior years.
+
+3. Times Interest Earned
+Times interest earned improved because the EBIT increased a lot while the interest expense only rose a little. This improvement means that earnings now cover interest, which indicates a stronger operating activity income activity, compared to the financing activity.
+
+4. Accounts Receivable Turnover
+The accounts receivable turnover decreased slightly. The sales increased a lot, and the accounts receivable increased even more. This is caused by slower accounts receivable collections, and the companies more generous credit terms. 
+
+5. Average Collection Period
+Despite the lower accounts receivable decrease, the average collection period improved. This means that even though the accounts receivables did grow, the company collected cash faster in 2021 than it did in 2020.
+
+6. Total Asset Turnover
+The total asset turnover decreased a little. This means that the assets generated fewer sales per dollar. The assets grew a lot faster which indicates there were large investments in equipment, property and intangible assets among other things. The new asset may not have been fully productive which reduces the total asset turnover ratio temporarily.
+
+7. Gross Profit Margin
+The gross profit margin improved because the revenue increased, and the cost of goods and services increased at a slower pace from 2020 to 2021. This indicates that Telus improved its pricing power and cost control.
+
+8. Net Profit Margin
+Net margin increased due to a strong increase in the net income. Operating expenses increased, but not as much as the revenue. This is also caused by improved pricing power and cost control.
+
+9. Total Debt Ratio
+The total equity increased, while the liabilities grew as well but less significantly. This caused total debt ratio to decrease which indicates the company has lower financial risk.
+
+10. Return on Assets
+The return on assets improved because the net income increased more than the total assets did. This is an indication of better operating performance.
+
+11. Return on Equity
+The return on equity improved a little due to lower asset turnover and high net margins. This indicates lower financial risk and higher returns.
+
+12. Equity Multiplier
+The equity multiplier decreased because equity increased more than the assets did. This decrease indicates that the company is relying less on debt financing more than it did before.
+
+
+In conclusion, this analysis indicates that Telus experienced improvement in profitability from 2020 to 2021, which is a cause of stronger operating activity performance. Profit margin increased, indicating better cost control, and improved generating profit from sales. The asset turnover ratio decreased which suggests the company became a little less efficient in using its assets to generate revenue. Despite the small decrease in asset efficiency, the companies return on equity still improved from 2020 to 2021. This is because of an increase in profit margin.
+
+
+**Key Skills Demonstrated:**
+*   Data Import and Cleaning in R
+*   Visualization with `ggplot2` (e.g., bar charts, scatter plots)
+*   Analytical Thinking and Problem-Solving
+*   Professional Documentation using R Markdown
+
+---
+[← Back to Home](index.html)

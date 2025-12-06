@@ -1,0 +1,25 @@
+---
+title: "My Data Portfolio"
+---
+
+## Welcome to My Portfolio
+
+I'm Hala Kishawi, a student that is passionate about turning raw data into clear insights and actionable recommendations.
+
+### What I Do
+
+I use data analysis to solve problems. My skills include:
+
+*   **Data Wrangling:** Cleaning and preparing confusing data for analysis purposes.
+*   **Statistical Analysis:** Exploring data to find patterns and relationships.
+*   **Data Visualization:** Creating clear, impactful charts with `ggplot2`.
+*   **Reproducible Reporting:** Building professional documents with R Markdown.
+
+### Navigate My Work
+
+Use the menu above to:
+*   Learn more **[about me and my skills](about.html)**
+*   View my **[data analysis projects](projects.html)**
+
+---
+*This professional portfolio was built with R Markdown and hosted for free on GitHub Pages.*
