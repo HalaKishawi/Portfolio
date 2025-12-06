@@ -10,7 +10,7 @@ I'm Hala Kishawi, a student that is passionate about turning raw data into clear
 
 I use data analysis to solve problems. My skills include:
 
-*   **Data Wrangling:** Cleaning and preparing confusing data for analysis purposes.
+
 *   **Statistical Analysis:** Exploring data to find patterns and relationships.
 *   **Data Visualization:** Creating clear, impactful charts with `ggplot2`.
 *   **Reproducible Reporting:** Building professional documents with R Markdown.
